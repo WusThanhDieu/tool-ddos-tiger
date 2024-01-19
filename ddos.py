@@ -61,7 +61,7 @@ def run_ddos(args, process):
                 current_color = random.choice(custom_colors)
                 custom_colors.remove(current_color)
                 current_time = datetime.now().strftime("%H:%M:%S")
-                print(f"{current_color}Method GET - Target: {args.website}:443 || IP: {____country_target} || Status: Sending Request To Server {Style.RESET_ALL}")
+                print(f"{current_color}Method POST - Target: {args.website}:443 || IP: {____country_target} || Status: Sending Request To Server {Style.RESET_ALL}")
                 elapsed_time = time.time() - start_time
                 if elapsed_time >= args.time:
                     process.terminate()
