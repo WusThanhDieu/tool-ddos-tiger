@@ -25,7 +25,6 @@ python ddos.py https://thanhdieu.com/ 90 64 15
 python ddos.py https://thanhdieu.com/ 60 50 4
 TỐT NHẤT NÊN MUA VPS MÀ DDOS - TOOL FREE MADE BY @THANHDIEUTV
 CÁCH 1-2 NGÀY PHẢI THAY PROXY MỚI - YÊU CẦU PROXY DẠNG HTTP/HTTPS ( TRÊN 500 IP PROXY )
-NẾU MUỐN MUA PROXY INBOX ZALO/FACEBOOK BÊN DƯỚI
 ======================
 * Facebook: https://facebook.com/WusThanhDieu
 * Zalo: zalo.me/vuongdieu2k3
